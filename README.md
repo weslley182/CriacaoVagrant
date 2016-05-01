@@ -3,7 +3,7 @@
 Após o Vagrant instalado na máquina (https://www.vagrantup.com/) com sua versão mais atual
 E também instalado o VirtualBox com a versão mais atual(https://www.virtualbox.org/)
 
-Após a copia destes arquivos em alguma pasta, navegue até esta pasta por linha de comando(Promt-Windows, Terminal-Mac e linux)
+Após a copia destes arquivos em alguma pasta, navegue até esta pasta por linha de comando(Prompt-Windows, Terminal-Mac e linux)
 
 utilize o comando vagrant up
 o tempo depende de sua conexão...
