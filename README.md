@@ -5,7 +5,7 @@ E também instalado o VirtualBox com a versão mais atual(https://www.virtualbox
 
 Após a copia destes arquivos em alguma pasta, navegue até esta pasta por linha de comando(Prompt-Windows, Terminal-Mac e linux)
 
-utilize o comando: "vagrant up" (sem aspas)
+# utilize o comando: "vagrant up" (sem aspas)
 o tempo depende de sua conexão...
 após finalizado a operação..
 o arquivo esta configurado para rodar no ip 192.168.50.10
@@ -18,4 +18,4 @@ neste caso a mesma aplicacao rodando em outro endereço:
 
 http://192.168.50.10:8080/vraptor-segunda-aplicacao
 
-e para destruir: "vagrant destroy"(sem aspas)
+#Para destruir: "vagrant destroy"(sem aspas)
