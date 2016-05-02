@@ -1,5 +1,7 @@
 # Criação da máquina virtual com Vagrant
 
+#Ubunto com MySql, JDK Java e Tomcat 7
+
 Após instalação do Vagrant na máquina (https://www.vagrantup.com/) com sua versão mais atual
 E também instalado o VirtualBox com a versão mais atual(https://www.virtualbox.org/)
 
